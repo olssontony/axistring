@@ -30,6 +30,7 @@
     "Cancel",
     "Add",
     "{\n  \"strings\": [\n    \"Add \",\n    \"Text about I/O modules and stuff\"\n  ]\n}",
-    "{\n  \"strings\": [\n    \"AXIS A1601 Network Door Controller\",\n    \"I/O Module\",\n    \"Nice name\",\n    \"Add\",\n    \"Name\",\n    \"Adress id\",\n    \"Status\",\n    \"Tampered\",\n    \"Battery\",\n    \"Rows per page:\",\n    \"10\",\n    \"1-5 of 13\",\n    \"Mailboxes\",\n    \"Status\",\n    \"Access control\",\n    \"Alarms\",\n    \"I/O Module\",\n    \"Reader \",\n    \"Wireless locks\",\n    \"System\",\n    \"Maintenance\",\n    \"Add \",\n    \"Text about I/O modules and stuff\"\n  ]\n}"
+    "{\n  \"strings\": [\n    \"AXIS A1601 Network Door Controller\",\n    \"I/O Module\",\n    \"Nice name\",\n    \"Add\",\n    \"Name\",\n    \"Adress id\",\n    \"Status\",\n    \"Tampered\",\n    \"Battery\",\n    \"Rows per page:\",\n    \"10\",\n    \"1-5 of 13\",\n    \"Mailboxes\",\n    \"Status\",\n    \"Access control\",\n    \"Alarms\",\n    \"I/O Module\",\n    \"Reader \",\n    \"Wireless locks\",\n    \"System\",\n    \"Maintenance\",\n    \"Add \",\n    \"Text about I/O modules and stuff\"\n  ]\n}",
+    "{\n  \"strings\": [\n    \"AXIS A1601 Network Door Controller\",\n    \"I/O Modules\",\n    \"Mailboxes\",\n    \"Status\",\n    \"Access control\",\n    \"Alarms\",\n    \"I/O Module\",\n    \"Reader \",\n    \"Wireless locks\",\n    \"System\",\n    \"Maintenance\",\n    \"Add \",\n    \"Text about I/O modules and stuff\"\n  ]\n}"
   ]
 }
