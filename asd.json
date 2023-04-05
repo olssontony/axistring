@@ -1,26 +1,5 @@
 {
-  "string": [
-    "AXIS A1601 Network Door Controller",
-    "I/O Module",
-    "Add ",
-    "Kanga",
-    "Add IO",
-    "Name",
-    "Adress id",
-    "Status",
-    "Tampered",
-    "Battery",
-    "Rows per page:",
-    "10",
-    "1-5 of 13",
-    "Mailboxes",
-    "Status",
-    "Access control",
-    "Alarms",
-    "I/O Module",
-    "Reader ",
-    "Wireless locks",
-    "System",
-    "Maintenance"
+  "strings": [
+    "Hello, asdas!"
   ]
 }
