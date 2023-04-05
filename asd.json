@@ -1,3 +1,27 @@
 {
-  "strings": "ewogICJzdHJpbmciOiBbCiAgICAiQVhJUyBBMTYwMSBOZXR3b3JrIERvb3IgQ29udHJvbGxlciIsCiAgICAiSS9PIE1vZHVsZSIsCiAgICAiTmljZSBuYW1lIiwKICAgICJBZGQiLAogICAgIk5hbWUiLAogICAgIkFkcmVzcyBpZCIsCiAgICAiU3RhdHVzIiwKICAgICJUYW1wZXJlZCIsCiAgICAiQmF0dGVyeSIsCiAgICAiUm93cyBwZXIgcGFnZToiLAogICAgIjEwIiwKICAgICIxLTUgb2YgMTMiLAogICAgIk1haWxib3hlcyIsCiAgICAiU3RhdHVzIiwKICAgICJBY2Nlc3MgY29udHJvbCIsCiAgICAiQWxhcm1zIiwKICAgICJJL08gTW9kdWxlIiwKICAgICJSZWFkZXIgIiwKICAgICJXaXJlbGVzcyBsb2NrcyIsCiAgICAiU3lzdGVtIiwKICAgICJNYWludGVuYW5jZSIsCiAgICAiQWRkICIsCiAgICAiVGV4dCBhYm91dCBJL08gbW9kdWxlcyBhbmQgc3R1ZmYiCiAgXQp9"
+  "string": [
+    "AXIS A1601 Network Door Controller",
+    "I/O Module",
+    "Nice name",
+    "Add",
+    "Name",
+    "Adress id",
+    "Status",
+    "Tampered",
+    "Battery",
+    "Rows per page:",
+    "10",
+    "1-5 of 13",
+    "Mailboxes",
+    "Status",
+    "Access control",
+    "Alarms",
+    "I/O Module",
+    "Reader ",
+    "Wireless locks",
+    "System",
+    "Maintenance",
+    "Add ",
+    "Text about I/O modules and stuff"
+  ]
 }
