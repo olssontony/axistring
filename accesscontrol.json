@@ -64,6 +64,10 @@
     "Chip",
     "Resistor value",
     "Helper text",
-    "Cancel"
+    "Cancel",
+    "I/O Modules",
+    "Add module",
+    "Select RS485",
+    "Port 2"
   ]
 }
