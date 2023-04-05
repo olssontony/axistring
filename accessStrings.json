@@ -35,6 +35,24 @@
     "Battery",
     "Rows per page:",
     "10",
-    "1-5 of 13"
+    "1-5 of 13",
+    "KangaRoo",
+    "Add I/O",
+    "Select Roo",
+    "Roo 1",
+    "Select I/O",
+    "Pin 2",
+    "Digital Input",
+    "Active state",
+    "Grounded circuit",
+    "AUX IO1",
+    "Supervised Input",
+    "Group label",
+    "Parallel-first connection with a 22Ω\nparallel resistor and a 4.7Ω serial \nresistor ",
+    "Serial firstconnection",
+    "Label",
+    "Information label",
+    "Resistor value",
+    "Helper text"
   ]
 }
