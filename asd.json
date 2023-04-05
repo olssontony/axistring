@@ -28,6 +28,7 @@
     "Nice name",
     "Name",
     "Cancel",
-    "Add"
+    "Add",
+    "{\n  \"strings\": [\n    \"Add \",\n    \"Text about I/O modules and stuff\"\n  ]\n}"
   ]
 }
