@@ -1,33 +1,5 @@
 {
-  "string": [
-    "AXIS A1601 Network Door Controller",
-    "Mailboxes",
-    "Status",
-    "Access control",
-    "Alarms",
-    "I/O Module",
-    "Reader ",
-    "Wireless locks",
-    "System",
-    "Maintenance",
-    "Add ",
-    "Text about I/O modules and stuff",
-    "Add module",
-    "Select RS485",
-    "F",
-    "Chip",
-    "F",
-    "Chip",
-    "Port 2",
-    "Select type",
-    "F",
-    "Chip",
-    "F",
-    "Chip",
-    "KangaRoo",
-    "Nice name",
-    "Nice name",
-    "Cancel",
-    "Add"
+  "strings": [
+    "Hello, asdas!"
   ]
 }
