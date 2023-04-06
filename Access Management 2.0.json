@@ -95,6 +95,8 @@
     "Primary",
     "Secondary",
     "4",
-    "Saving ..."
+    "Saving ...",
+    "Tell the user about why the action went wrong. If no action is requiered to confirm, auto hide this message after 5 sek ",
+    ""
   ]
 }
