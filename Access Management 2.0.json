@@ -88,6 +88,13 @@
     "Apply",
     "",
     "Tell the user everything went well. If no action is requiered to confirm, auto hide this message after 5 sek ",
-    ""
+    "",
+    "Title ",
+    "4",
+    "Do you want to send this message without a subject?",
+    "Primary",
+    "Secondary",
+    "4",
+    "Saving ..."
   ]
 }
