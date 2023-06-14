@@ -1,7 +1,7 @@
 {
-  "String-button": "Command",
+  "String-button": "New profile",
   "String-chevronRight": "",
-  "Text": "Text",
+  "Text": "Filter",
   "Search": "Search",
   "ChromeMinimize": "",
   "ChromeMaximize": "",
@@ -42,5 +42,6 @@
   "Mon": "Mon",
   "Sep 14": "Sun",
   "Tue": "",
-  "Tax day": "Tax day"
+  "Tax day": "Tax day",
+  "String-item": "Item"
 }
