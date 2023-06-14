@@ -14,9 +14,9 @@
     "Add ",
     "Text about I/O modules and stuff"
   ],
-  "String-button": "No",
+  "String-button": "OSDP Secure Channel.",
   "String-chevronRight": "",
-  "Text": "Cards formats and pin",
+  "Text": "Multi server",
   "Icon": "",
   "Clear12": "",
   "Add": "",
@@ -24,8 +24,8 @@
   "ChromeMaximize": "",
   "ChromeClose": "",
   "ChevronUpMed": "",
-  "Heading": "Sub site",
-  "Caption": "Configure this site as a sub site",
+  "Heading": "OSDP Secure Channel",
+  "Caption": "Configuration and control",
   "Search": "Search",
   "String-header": "Status",
   "String-icon-clear": "",
@@ -35,5 +35,9 @@
   "": "",
   "String-title": "Revoke sub server configuration?",
   "Value": "4",
-  "String-subtext": "Are you sure you want to remove this sub server from the system?"
+  "String-subtext": "Are you sure you want to remove this sub server from the system?",
+  "Required asterisk": "*",
+  "Error": "Error",
+  "Placeholder text": "Enter key",
+  "String-toggle": "Enabled"
 }
