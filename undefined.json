@@ -14,9 +14,9 @@
     "Add ",
     "Text about I/O modules and stuff"
   ],
-  "String-button": "Sub server.",
+  "String-button": "No",
   "String-chevronRight": "",
-  "Text": "Download",
+  "Text": "Cards formats and pin",
   "Icon": "",
   "Clear12": "",
   "Add": "",
@@ -24,13 +24,16 @@
   "ChromeMaximize": "",
   "ChromeClose": "",
   "ChevronUpMed": "",
-  "Heading": "Sub server",
+  "Heading": "Sub site",
   "Caption": "Configure this site as a sub site",
   "Search": "Search",
   "String-header": "Status",
   "String-icon-clear": "",
   "String-message": "Subsite1(Multiste configuration).json sucessfully downloaded",
   "String-icon-info": "",
-  "String-label": "SiteName.json",
-  "": ""
+  "String-label": "Subsite1(Multisite configuration).json",
+  "": "",
+  "String-title": "Revoke sub server configuration?",
+  "Value": "4",
+  "String-subtext": "Are you sure you want to remove this sub server from the system?"
 }
