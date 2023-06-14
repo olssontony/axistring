@@ -1,0 +1,1024 @@
+{
+  "strings": [
+    {
+      "label": "ChromeMinimize",
+      "string": ""
+    },
+    {
+      "label": "ChromeMaximize",
+      "string": ""
+    },
+    {
+      "label": "ChromeClose",
+      "string": ""
+    },
+    {
+      "label": "Text",
+      "string": "Axis camera station."
+    },
+    {
+      "label": "Icon",
+      "string": ""
+    },
+    {
+      "label": "Text",
+      "string": "Access control"
+    },
+    {
+      "label": "Icon",
+      "string": ""
+    },
+    {
+      "label": "ChevronUpMed",
+      "string": ""
+    },
+    {
+      "label": "Text",
+      "string": "Doors & zones"
+    },
+    {
+      "label": "Text",
+      "string": "Identification profile"
+    },
+    {
+      "label": "Text",
+      "string": "Card formats & PIN"
+    },
+    {
+      "label": "Text",
+      "string": "Encrypted communication"
+    },
+    {
+      "label": "Icon",
+      "string": ""
+    },
+    {
+      "label": "Text",
+      "string": "Access managment"
+    },
+    {
+      "label": "Clear12",
+      "string": ""
+    },
+    {
+      "label": "Text",
+      "string": "Configuration"
+    },
+    {
+      "label": "Icon",
+      "string": ""
+    },
+    {
+      "label": "Clear12",
+      "string": ""
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Icon",
+      "string": ""
+    },
+    {
+      "label": "Clear12",
+      "string": ""
+    },
+    {
+      "label": "Add",
+      "string": ""
+    },
+    {
+      "label": "String-button",
+      "string": "Doors"
+    },
+    {
+      "label": "String-chevronRight",
+      "string": ""
+    },
+    {
+      "label": "String-button",
+      "string": "Level title"
+    },
+    {
+      "label": "String-chevronRight",
+      "string": ""
+    },
+    {
+      "label": "String-button",
+      "string": "Level title"
+    },
+    {
+      "label": "String-chevronRight",
+      "string": ""
+    },
+    {
+      "label": "String-button",
+      "string": "Level title"
+    },
+    {
+      "label": "String-chevronRight",
+      "string": ""
+    },
+    {
+      "label": "String-button",
+      "string": "Level title"
+    },
+    {
+      "label": "String-chevronRight",
+      "string": ""
+    },
+    {
+      "label": "String-button",
+      "string": "Doors"
+    },
+    {
+      "label": "String-chevronRight",
+      "string": ""
+    },
+    {
+      "label": "String-button",
+      "string": "New Door"
+    },
+    {
+      "label": "Text",
+      "string": "Save"
+    },
+    {
+      "label": "Text",
+      "string": "Cancel"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "21 items"
+    },
+    {
+      "label": "Text",
+      "string": "21 items"
+    },
+    {
+      "label": "Text",
+      "string": "Filter"
+    },
+    {
+      "label": "Text",
+      "string": "Filter"
+    },
+    {
+      "label": "Search",
+      "string": "Search"
+    },
+    {
+      "label": "Card title",
+      "string": "Sensors"
+    },
+    {
+      "label": "Text",
+      "string": "Add "
+    },
+    {
+      "label": "Text",
+      "string": "Edit "
+    },
+    {
+      "label": "Text",
+      "string": "Delete"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "21 items"
+    },
+    {
+      "label": "Text",
+      "string": "21 items"
+    },
+    {
+      "label": "Text",
+      "string": "Filter"
+    },
+    {
+      "label": "Text",
+      "string": "Filter"
+    },
+    {
+      "label": "Search",
+      "string": "Search"
+    },
+    {
+      "label": "Side B",
+      "string": "Side B"
+    },
+    {
+      "label": "Text",
+      "string": "Add "
+    },
+    {
+      "label": "Text",
+      "string": "Edit "
+    },
+    {
+      "label": "Text",
+      "string": "Delete"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "21 items"
+    },
+    {
+      "label": "Text",
+      "string": "21 items"
+    },
+    {
+      "label": "Text",
+      "string": "Filter"
+    },
+    {
+      "label": "Text",
+      "string": "Filter"
+    },
+    {
+      "label": "Search",
+      "string": "Search"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "Card Reader"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "Qr reader"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "License plate"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "Fingerprint reader"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "Side A",
+      "string": "Side A"
+    },
+    {
+      "label": "Text",
+      "string": "Add "
+    },
+    {
+      "label": "Text",
+      "string": "Edit "
+    },
+    {
+      "label": "Text",
+      "string": "Delete"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "21 items"
+    },
+    {
+      "label": "Text",
+      "string": "21 items"
+    },
+    {
+      "label": "Text",
+      "string": "Filter"
+    },
+    {
+      "label": "Text",
+      "string": "Filter"
+    },
+    {
+      "label": "Search",
+      "string": "Search"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "Card Reader"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "Qr reader"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "License plate"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "Fingerprint reader"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "Emergency sensor"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": ""
+    },
+    {
+      "label": "String-cell-primary",
+      "string": "Door monitor"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "01/01/2020"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Mona Kane"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Private"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "2 days ago"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "1.29MB"
+    },
+    {
+      "label": "String-cell-secondary",
+      "string": "Tim Deboar"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Placeholder text",
+      "string": "Placeholder text"
+    },
+    {
+      "label": "Entered text",
+      "string": "Entered text"
+    },
+    {
+      "label": "Placeholder text",
+      "string": "Placeholder text"
+    },
+    {
+      "label": "Entered text",
+      "string": "Entered text"
+    },
+    {
+      "label": "Placeholder text",
+      "string": "Placeholder text"
+    },
+    {
+      "label": "Entered text",
+      "string": "Entered text"
+    },
+    {
+      "label": "Text",
+      "string": "Relay 1"
+    },
+    {
+      "label": "Text",
+      "string": "Primary Lock"
+    },
+    {
+      "label": "Required asterisk",
+      "string": "*"
+    },
+    {
+      "label": "Text",
+      "string": "Card & PIN"
+    },
+    {
+      "label": "Text",
+      "string": "Identification profile"
+    },
+    {
+      "label": "Required asterisk",
+      "string": "*"
+    },
+    {
+      "label": "Text",
+      "string": "Relay 2"
+    },
+    {
+      "label": "Text",
+      "string": "Secondary Lock"
+    },
+    {
+      "label": "Required asterisk",
+      "string": "*"
+    },
+    {
+      "label": "String-label",
+      "string": "Controller"
+    },
+    {
+      "label": "String-label",
+      "string": "Axis A1601(3)"
+    },
+    {
+      "label": "String-label",
+      "string": "Ip adress"
+    },
+    {
+      "label": "String-label",
+      "string": "168.23.255.25"
+    },
+    {
+      "label": "String-label",
+      "string": "Door type"
+    },
+    {
+      "label": "String-label",
+      "string": "Gate"
+    },
+    {
+      "label": "String-title",
+      "string": "Title "
+    },
+    {
+      "label": "Value",
+      "string": "4"
+    },
+    {
+      "label": "String-subtext",
+      "string": "Do you want to send this message without a subject?"
+    },
+    {
+      "label": "String-button",
+      "string": "Primary"
+    },
+    {
+      "label": "String-button",
+      "string": "Secondary"
+    },
+    {
+      "label": "Value",
+      "string": "4"
+    },
+    {
+      "label": "Placeholder text",
+      "string": "Placeholder text"
+    },
+    {
+      "label": "Entered text",
+      "string": "Entered text"
+    },
+    {
+      "label": "String-title",
+      "string": "OSDP, RS485 half duplex"
+    },
+    {
+      "label": "String-swap-placeholder",
+      "string": "SWAP WITH CONTENT COMPONENT"
+    },
+    {
+      "label": "String-button",
+      "string": "Add"
+    },
+    {
+      "label": "String-button",
+      "string": "Cancel"
+    },
+    {
+      "label": "Text",
+      "string": "Overview"
+    },
+    {
+      "label": "Text",
+      "string": "Advanced"
+    },
+    {
+      "label": "Text",
+      "string": "Advanced"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Text",
+      "string": "Text"
+    },
+    {
+      "label": "Placeholder text",
+      "string": "Placeholder text"
+    },
+    {
+      "label": "Entered text",
+      "string": "Entered text"
+    },
+    {
+      "label": "String-label",
+      "string": "Reader type"
+    },
+    {
+      "label": "String",
+      "string": "OSDP, RS485 half duplex"
+    },
+    {
+      "label": "String",
+      "string": "Wiegand"
+    },
+    {
+      "label": "String",
+      "string": "IP Reader"
+    },
+    {
+      "label": "String",
+      "string": "String"
+    },
+    {
+      "label": "String",
+      "string": "String"
+    },
+    {
+      "label": "String",
+      "string": "String"
+    },
+    {
+      "label": "String",
+      "string": "String"
+    },
+    {
+      "label": "String-label",
+      "string": "Reader port"
+    },
+    {
+      "label": "String",
+      "string": "Reader port 1 on device card"
+    },
+    {
+      "label": "String",
+      "string": "String"
+    },
+    {
+      "label": "String",
+      "string": "String"
+    },
+    {
+      "label": "String",
+      "string": "String"
+    },
+    {
+      "label": "String",
+      "string": "String"
+    },
+    {
+      "label": "String",
+      "string": "String"
+    },
+    {
+      "label": "String",
+      "string": "Reader port 2 on device card "
+    },
+    {
+      "label": "String-label",
+      "string": "Reader adress"
+    },
+    {
+      "label": "String-icon-ChevronDown",
+      "string": ""
+    },
+    {
+      "label": "String",
+      "string": "1"
+    }
+  ]
+}
