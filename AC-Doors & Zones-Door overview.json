@@ -420,5 +420,21 @@
       "label": "Text",
       "string": "Offline"
     }
-  ]
+  ],
+  "ChromeMinimize": "",
+  "ChromeMaximize": "",
+  "ChromeClose": "",
+  "Search Text": "Search",
+  "Search": "",
+  "Icon": "",
+  "Text": "Offline",
+  "Required asterisk": "*",
+  "Doors & Zones.": "Doors & Zones.",
+  "add": "Add",
+  "Placeholder text": "Placeholder text",
+  "Entered text": "Entered text",
+  "placeholderText": "Placeholder text",
+  "Header": "Status",
+  "Content": "Zone 2",
+  "Description": "196.255.64.64"
 }
