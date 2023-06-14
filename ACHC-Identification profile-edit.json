@@ -1,7 +1,7 @@
 {
-  "String-button": "New profile",
+  "String-button": "Primary",
   "String-chevronRight": "",
-  "Text": "Filter",
+  "Text": "Text",
   "Search": "Search",
   "ChromeMinimize": "",
   "ChromeMaximize": "",
@@ -43,5 +43,10 @@
   "Sep 14": "Sun",
   "Tue": "",
   "Tax day": "Tax day",
-  "String-item": "Item"
+  "String-item": "Item",
+  "String-cell-secondary": "Weekdays",
+  "String-header": "Shedule",
+  "String-headline": "Profile logics",
+  "String-subtext": "Add Ashley ",
+  "String-step": "1 of 3"
 }
