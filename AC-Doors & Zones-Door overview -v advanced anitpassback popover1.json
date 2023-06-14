@@ -1,1 +1,10 @@
-{}
+{
+  "Text": "Text",
+  "Title": "Advanced ",
+  "Subtext": "Additional features and configurations that allow for more precise and sophisticated control over door access. These options go beyond basic functionalities and provide enhanced security and customization capabilities.",
+  "🛑 String-label": "Enforcement Mode",
+  "Required asterisk": "*",
+  "Placeholder text": "Set time",
+  "Entered text": "Entered text",
+  "String": "String"
+}
