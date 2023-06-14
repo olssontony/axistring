@@ -14,5 +14,6 @@
   "String-cell-primary": "",
   "String-cell-secondary": "255",
   "string": "Import/Export",
-  "Required asterisk": "*"
+  "Required asterisk": "*",
+  "add": "Add"
 }
