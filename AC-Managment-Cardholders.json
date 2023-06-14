@@ -15,5 +15,6 @@
   "String-cell-secondary": "255",
   "string": "Import/Export",
   "Required asterisk": "*",
-  "add": "Add"
+  "add": "Add",
+  "accessrule": "Access rule"
 }
