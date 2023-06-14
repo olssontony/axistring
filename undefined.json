@@ -14,9 +14,9 @@
     "Add ",
     "Text about I/O modules and stuff"
   ],
-  "String-button": "Main server.",
+  "String-button": "Sub server.",
   "String-chevronRight": "",
-  "Text": "No site connected",
+  "Text": "Download",
   "Icon": "",
   "Clear12": "",
   "Add": "",
@@ -24,8 +24,13 @@
   "ChromeMaximize": "",
   "ChromeClose": "",
   "ChevronUpMed": "",
-  "Heading": "Main server",
-  "Caption": "Configure this site to main",
+  "Heading": "Sub server",
+  "Caption": "Configure this site as a sub site",
   "Search": "Search",
-  "String-header": "Status"
+  "String-header": "Status",
+  "String-icon-clear": "",
+  "String-message": "Subsite1(Multiste configuration).json sucessfully downloaded",
+  "String-icon-info": "",
+  "String-label": "SiteName.json",
+  "": ""
 }
