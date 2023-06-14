@@ -13,5 +13,19 @@
     "Maintenance",
     "Add ",
     "Text about I/O modules and stuff"
-  ]
+  ],
+  "String-button": "Main server.",
+  "String-chevronRight": "",
+  "Text": "No site connected",
+  "Icon": "",
+  "Clear12": "",
+  "Add": "",
+  "ChromeMinimize": "",
+  "ChromeMaximize": "",
+  "ChromeClose": "",
+  "ChevronUpMed": "",
+  "Heading": "Main server",
+  "Caption": "Configure this site to main",
+  "Search": "Search",
+  "String-header": "Status"
 }
