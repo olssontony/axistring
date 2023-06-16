@@ -1,6 +1,0 @@
-{
-  "Mode": "Mode",
-  "Text": "Previous",
-  "A violation occurs when the user enters the area (opens the door) and then requests to enter it again (e.g. the card is passed back through the door to another user). Timed : A violation occurs when the user enters the area and then requests to enter again within a configurable time span. After the configured time has passed, requests to re-enter will not cause violations.": "A violation occurs when the user enters the area (opens the door) and then requests to enter it again (e.g. the card is passed back through the door to another user).\n\nTimed : A violation occurs when the user enters the area and then requests to enter again within a configurable time span. After the configured time has passed, requests to re-enter will not cause violations.",
-  "1 of 6": "1 of 6"
-}
